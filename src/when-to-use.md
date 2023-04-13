@@ -1,8 +1,8 @@
 # When to Consider Using mdBook
 
-You have...
+You want...
 - Multiple connected "chapters"
-- Want more control over rendering than pure Markdown offers
+- More control over rendering than pure Markdown offers
 	- Themes, CSS tweaks
 	- Preprocessors
-- Want snappy full-text search
+- Snappy full-text search
