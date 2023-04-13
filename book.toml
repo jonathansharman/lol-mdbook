@@ -1,0 +1,16 @@
+[book]
+authors = ["Jonathan Sharman"]
+language = "en"
+multilingual = false
+src = "src"
+title = "LOL: Using mdBook to turn Markdown into books"
+
+[build]
+build-dir = "docs"
+
+#[preprocessor.yell]
+
+[output.html]
+curly-quotes = true
+
+#[output.linkcheck]
